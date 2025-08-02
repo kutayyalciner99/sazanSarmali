@@ -139,7 +139,7 @@ export default function Sidebar({ activeCategory, onCategoryChange }: SidebarPro
         <div className="bg-gradient-to-r from-yellow-600 to-orange-600 rounded-lg p-3 text-center">
           <Gift className="w-6 h-6 mx-auto mb-2 text-white" />
           <p className="text-sm font-bold text-white">{t('welcomeBonus')}</p>
-          <p className="text-xs text-yellow-100">Up to ₺10,000</p>
+          <p className="text-xs text-yellow-100">Up to ₺5,000</p>
         </div>
       </div>
     </div>
